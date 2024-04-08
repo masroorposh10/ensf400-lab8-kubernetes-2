@@ -1,5 +1,5 @@
 # ENSF 400 Lab 8
- - Masroor Pos
+ - Masroor Posh
  - UCID: 30156171
 
 ## Prerequisites
